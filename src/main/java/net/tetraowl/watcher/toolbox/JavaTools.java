@@ -7,7 +7,7 @@ public class JavaTools {
         if (major>1) {
             return major;
         } else {
-            return  Integer.parseInt(javaVersionElements[2]);
+            return  Integer.parseInt(javaVersionElements[1]);
         }
     }
 }
