@@ -13,9 +13,6 @@
       <executable />
     </execution>
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -55,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574091926554</updated>
-      <workItem from="1574091930133" duration="998000" />
+      <workItem from="1574091930133" duration="1713000" />
+      <workItem from="1574265653171" duration="336000" />
     </task>
     <servers />
   </component>
